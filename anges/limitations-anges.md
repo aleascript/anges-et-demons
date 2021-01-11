@@ -1,0 +1,37 @@
+- [ ] Asexué 
+- [ ] Générosité
+- [ ] Enfant 
+- [ ] Pitié
+- [ ] Muet 
+- [ ] Ascétisme
+- [ ] Obèse 
+- [ ] Chasteté
+- [ ] Sourd 
+- [ ] Humilité
+- [ ] Amnésique
+- [ ] Vieillard 
+- [ ] Hyperactivité
+- [ ] Ailes de plume
+- [ ] Peur de la technologie
+- [ ] Auréole
+- [ ] Peur des uniformes
+- [ ] Odeur suspecte 
+- [ ] Peur du noir
+- [ ] Pigmentation étrange 
+- [ ] Peur des symboles sataniques
+- [ ] Stigmates
+- [ ] Peur des enfants
+- [ ] Tic de langage 
+- [ ] Peur des animaux
+- [ ] Avarice 
+- [ ] Inimitié d'un Archange
+- [ ] Colère 
+- [ ] Sous l'oeil de Dominique
+- [ ] Gloutonnerie 
+- [ ] Sous les ordres d’un autre PJ
+- [ ] Luxure 
+- [ ] Responsable des fautes des autres PJ
+- [ ] Orgueil 
+- [ ] Besoin de sexe
+- [ ] Paresse 
+- [ ] Besoin de tuer

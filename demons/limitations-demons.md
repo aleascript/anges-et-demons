@@ -1,0 +1,37 @@
+- [ ] Asexué 
+- [ ] Générosité
+- [ ] Enfant 
+- [ ] Pitié
+- [ ] Muet 
+- [ ] Ascétisme
+- [ ] Obèse 
+- [ ] Chasteté
+- [ ] Sourd 
+- [ ] Humilité
+- [ ] Amnésique
+- [ ] Vieillard 
+- [ ] Hyperactivité
+- [ ] Ailes de cuir
+- [ ] Peur de la technologie
+- [ ] Petites cornes
+- [ ] Peur des uniformes
+- [ ] Odeur suspecte 
+- [ ] Peur du noir
+- [ ] Pigmentation étrange 
+- [ ] Peur des symboles religieux
+- [ ] Petite queue pointue
+- [ ] Peur des enfants
+- [ ] Tic de langage 
+- [ ] Peur des animaux
+- [ ] Avarice 
+- [ ] Inimitié d’un Prince
+- [ ] Colère 
+- [ ] Sous l'oeil d'Andromalius
+- [ ] Gloutonnerie 
+- [ ] Sous les ordres d’un autre PJ
+- [ ] Luxure 
+- [ ] Responsable des fautes des autres PJ
+- [ ] Orgueil 
+- [ ] Besoin de sexe
+- [ ] Paresse 
+- [ ] Besoin de tuer
