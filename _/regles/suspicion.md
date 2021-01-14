@@ -2,7 +2,7 @@
 
 Les Anges et les Démons doivent rester le plus discret possible. Cependant dans certains cas, l'utilisation d'un talent ou d'un pouvoir au niveau au moins héroïque pourra éveiller la suspicion d'éventuels témoins ou participants de la scène.
 
-_Note: Vous pouvez tout à fait vous passer de la règle suivante qui est plus là pour montrer comment on peut adapter le système de résolution d'HaDes (comme cela a été fait pour les Deus Ex Machina). En effet, vous avez déjà à disposition: votre simple envie accompagnée éventuellement d'un jet de perception (la Destinée est là pour créer des complications) ainsi que la jauge de destin (si vous voulez un peu d'équité et récompenser la prise de risques)._
+_Note: Vous pouvez tout à fait vous passer de la règle suivante qui est plus là pour montrer comment on peut adapter le système de résolution d'HaDes (comme cela a été fait pour les Deus Ex Alea). En effet, vous avez déjà à disposition: votre simple envie accompagnée éventuellement d'un jet de perception (la Destinée est là pour créer des complications) ainsi que la jauge de destin (si vous voulez un peu d'équité et récompenser la prise de risques)._
 
 De plus, l'usage d'un pouvoir de manière particulièrement frappante est de suite visible pour tous les témoins et la règle suivante est caduque.
 
